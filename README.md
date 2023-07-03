@@ -16,6 +16,7 @@ With cyber threats on the rise, it's crucial to have robust passwords that can s
 - [Usage](#Usage)
 - [Credits](#Credits)
 - [License](#License)
+- [Badges](#Badges)
 - [Features](#Features)
 
 ## Installation
