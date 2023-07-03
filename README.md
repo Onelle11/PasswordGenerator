@@ -29,8 +29,8 @@ git clone my repo!
 
 Launch my code and customize the password settings to your liking then click 'Generate Password'
 
+Deployed website:
 ```
-Deployed Website: 
 https://onelle11.github.io/PasswordGenerator/
 ```
 
