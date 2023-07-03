@@ -1,5 +1,9 @@
 # PasswordGenerator
 
+```md
+![alt text](./assets/images/PasswordGenerator.png)
+```
+
 ## Description
 
 An innovative and reliable Password Generator designed to create strong and secure passwords effortlessly.
@@ -45,4 +49,10 @@ Password Generator is licensed under the MIT License.
 
 ## How to Contribute
 
-## Tests
+I welcome contributions to improve my Password Generator. If you'd like to contribute, please follow these steps:
+
+1. Fork my repo
+2. Create a new branch for your contribution
+3. Make necessary changes and improvements
+4. Test your changes thoroughly
+5. Submit a pull request detailing the changes you've made
