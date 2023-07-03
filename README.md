@@ -3,6 +3,7 @@
 ```md
 ![alt text](./assets/images/PasswordGenerator.png)
 ```
+<img src='./assets/images/PasswordGenerator.png' alt='Screenshot'>
 
 ## Description
 
